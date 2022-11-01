@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1539787863 source:d:\enkripsi_dekripsi_hill_chipper\main.c
+	"header.h"
+
+1539766765 source:d:\enkripsi_dekripsi_hill_chipper\koding.c
+	"header.h"
+
+1539764958 d:\enkripsi_dekripsi_hill_chipper\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1539787863 source:h:\enkripsi_dekripsi_hill_chipper\main.c
+	"header.h"
+
+1539845066 h:\enkripsi_dekripsi_hill_chipper\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1539848180 source:h:\enkripsi_dekripsi_hill_chipper\koding.c
+	"header.h"
+
